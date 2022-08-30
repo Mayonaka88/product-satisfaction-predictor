@@ -1,5 +1,7 @@
 # Product Satisfaction Predictor
 
+#### NOTE: DOWNLOAD THE DATASET REQUIRED FROM [HERE](http://jmcauley.ucsd.edu/data/amazon/index.html) AND PLACE IT INTO A FOLDER INSIDE THE FOLDER OF THE PROJECT!
+
 >An Artificially Intelligent Product Satisfaction Predictor created in 2022 as a project for my NLP course in the British University in Dubai.
 
 >Python and deep learning algorithoms are used to predict the satisfaction level from a product review.
@@ -7,6 +9,8 @@
 >Concepts from natural language processing, deep learning, and neural networks were used in this project.
 
 >A GUI is used to display the input and the output of the program.
+
+>A minimalistic design, similar to the design of the [Minimalist Music Aggregator](https://github.com/Mayonaka88/minimalist-music-aggregator), was implimented.
 
 >The user writes thier review and the program predicts what thier satisfaction level would be based on the emotions presented in thier review.
 
