@@ -4,15 +4,15 @@
 
 >An Artificially Intelligent Product Satisfaction Predictor created in 2022 as a project for my NLP course in the British University in Dubai.
 
->Python and deep learning algorithoms are used to predict the satisfaction level from a product review.
+>Python and deep learning algorithms are used to predict the satisfaction level from a product review.
 
 >Concepts from natural language processing, deep learning, and neural networks were used in this project.
 
 >A GUI is used to display the input and the output of the program.
 
->A minimalistic design, similar to the design of the [Minimalist Music Aggregator](https://github.com/Mayonaka88/minimalist-music-aggregator), was implimented.
+>A minimalistic design, similar to the design of the [Minimalist Music Aggregator](https://github.com/Mayonaka88/minimalist-music-aggregator), was implemented.
 
->The user writes thier review and the program predicts what thier satisfaction level would be based on the emotions presented in thier review.
+>The user writes their review and the program predicts what their satisfaction level would be based on the emotions presented in their review.
 
 ## Methodology
 
